@@ -1,5 +1,5 @@
 # Project-Ambilight
-
+![title foto of the project, with project name and fictive company name](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Ambilight%20Video.png)
 ## Short-Description:
 
 In this project students from the [University of Applied Sciences](https://ee.hm.edu) in Munich built a ambient light for a monitor.
@@ -21,3 +21,4 @@ In short: We read the video via a HDMI Splitter in and take on of the streams to
 The raspi scales the video down, cuts the images into sectors, these sectors are analyzed for their most dominant color. 
 The color value is then passed on to the LEDs on the back of the Screen.
 refer to these slides to learn more
+https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Ambilight%20Video.png
