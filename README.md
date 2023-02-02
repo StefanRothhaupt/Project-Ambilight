@@ -1,5 +1,7 @@
 # Project-Ambilight
+
 ##Short-Description:
+
 In this project students from the University of Applied Sciences in Munich built a ambient light for a monitor.
 ##Detailed Description:
 In the 6th semester of electrical engineering and information technology students are supposed to envision and build their own product.
