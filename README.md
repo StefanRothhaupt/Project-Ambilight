@@ -18,49 +18,11 @@ Here you can find all the relevant links (code, links to amazon to order the par
 | ------------- |:-------------:| -----:|:-------------:|
 | [LED Strip, WS2812B, 5M 150LEDs](https://www.amazon.de/BTF-LIGHTING-WS2812B-adressierbare-Streifen-Wasserdicht/dp/B01CDTECSG/ref=sr_1_2_sspa?crid=1POT8EH2W8453&keywords=ws2801&qid=1666263020&qu=eyJxc2MiOiIzLjE5IiwicXNhIjoiMi41MCIsInFzcCI6IjIuMTAifQ%3D%3D&sprefix=WS2%2Caps%2C87&sr=8-2-spons&th=1)  | 1| 30€ |B01CDTECSG |
 | [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)       | 1      |   120€ |-|
-| zebra stripes | are neat      |    $1 |-|
 | [HDMI Splitter](https://www.amazon.de/Links-4330119358-HDMI-Adapter/dp/B0732MD43P/ref=sr_1_8?crid=34ROZS50JI9VR&keywords=hdmi+splitter&qid=1666263505&qu=eyJxc2MiOiI1LjI2IiwicXNhIjoiNC44MSIsInFzcCI6IjQuNjMifQ%3D%3D&s=ce-de&sprefix=HDMI%2Celectronics%2C82&sr=1-8)       | 1      |   120€ |B0732MD43P|
 | [Capture Card](https://www.amazon.de/Newhope-Capture-Directly-Computer-Compatible-Schwarz/dp/B09NQM16VY/ref=sr_1_5?crid=3P1CORD8IG5NV&keywords=hdmi%2Bcapture%2Bcard&qid=1666861631&qu=eyJxc2MiOiI1LjQ2IiwicXNhIjoiNC43NyIsInFzcCI6IjQuNDgifQ%3D%3D&sprefix=HDMI%2BCap%2Caps%2C150&sr=8-5&th=1)       | 1      |   120€ |B09NQM16VY|
 | [Netzteil](https://www.amazon.de/ALITOVE-Konverter-Transformator-Pixelstreifen-Sicherheitssystem-Black/dp/B0B49TZQZX/ref=sr_1_8?__mk_de_DE=ÅMÅŽÕÑ&crid=1M5ERXVVCWK9A&keywords=5v+5a+netzteil&qid=1666264450&qu=eyJxc2MiOiI0LjE5IiwicXNhIjoiNC4wMSIsInFzcCI6IjQuMDAifQ%3D%3D&sprefix=5v+5a+netzteil%2Caps%2C140&sr=8-8)       | 1      |   120€ |B0B49TZQZX|
- 
- 
- 
-
-
-
-
- 
- 
- 
- 
-
- 
- 
- 
-
-SD Karte 
-https://www.amazon.de/SanDisk-microSD-Karte-VR-Spielgrafiken-4K-UHD-Video-SDSQXAF-032G-GN6GN/dp/B089M5KV4Y/ref=sr_1_8?crid=1BY1FABF1RLRQ&keywords=micro+sd+karte+16gb+sandisk+extreme&qid=1666264516&qu=eyJxc2MiOiIyLjg3IiwicXNhIjoiMS43OSIsInFzcCI6IjEuMzgifQ%3D%3D&sprefix=micro+sd+karte+16gb%2Caps%2C86&sr=8-8 
-B089M5KV4Y 
-Fernbedienung 
- 
- 
-Switch 
-https://www.amazon.de/Gebildet-Edelstahl-Drucktastenschalter-Wasserdichter-Kippschalter/dp/B07RXX75KZ/ref=sr_1_13?__mk_de_DE=ÅMÅŽÕÑ&crid=1I6LW9XT2VN0S&keywords=schalter%2B5v%2B5a&qid=1666264741&qu=eyJxc2MiOiIyLjc3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=schalter%2B5v%2B5a%2Caps%2C67&sr=8-13&th=1 
- 
-B07RXX75KZ 
-Banana Pi 
-https://www.amazon.de/Banana-Pi-M5-Einplatinencomputer-Unterstützt/dp/B0B2KCFXXR/ref=sr_1_3?__mk_de_DE=ÅMÅŽÕÑ&crid=3EKMXA1PU17B&keywords=Banana+Pi&qid=1666858333&qu=eyJxc2MiOiI1LjAzIiwicXNhIjoiNC4xNSIsInFzcCI6IjMuNDgifQ%3D%3D&sprefix=banana+pi%2Caps%2C114&sr=8-3 
- 
-B0B2KCFXXR 
-Banana Pi Case 
- 
-B08L5ZVJXS 
-DVI auf HDMI 
-https://www.amazon.de/sspa/click?ie=UTF8&spc=MTo1NDcwOTYxNzg2MzExODoxNjY2ODYyMTE2OnNwX2F0ZjoyMDAxOTI0OTE0NzcwMjo6MDo6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&url=%2FAmazonBasics-Adapterkabel-HDMI-auf-DVI-Schwarz%2Fdp%2FB014I8UQJY%2Fref%3Dsr_1_1_sspa%3Fcrid%3D165L17H1PER6L%26keywords%3Dhdmi%2Bauf%2Bdvi%2Badapter%26qid%3D1666862116%26qu%3DeyJxc2MiOiI0LjQzIiwicXNhIjoiNC4xMyIsInFzcCI6IjQuMDAifQ%253D%253D%26sprefix%3DHDMI%2Bauf%2BDVI%252Caps%252C91%26sr%3D8-1-spons%26psc%3D1 
- 
-B014I8UQJY 
-
-
+| [SD card](https://www.amazon.de/SanDisk-microSD-Karte-VR-Spielgrafiken-4K-UHD-Video-SDSQXAF-032G-GN6GN/dp/B089M5KV4Y/ref=sr_1_8?crid=1BY1FABF1RLRQ&keywords=micro+sd+karte+16gb+sandisk+extreme&qid=1666264516&qu=eyJxc2MiOiIyLjg3IiwicXNhIjoiMS43OSIsInFzcCI6IjEuMzgifQ%3D%3D&sprefix=micro+sd+karte+16gb%2Caps%2C86&sr=8-8)       | 1      |   120€ |-|
+| [Switch](https://www.amazon.de/Gebildet-Edelstahl-Drucktastenschalter-Wasserdichter-Kippschalter/dp/B07RXX75KZ/ref=sr_1_13?__mk_de_DE=ÅMÅŽÕÑ&crid=1I6LW9XT2VN0S&keywords=schalter%2B5v%2B5a&qid=1666264741&qu=eyJxc2MiOiIyLjc3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=schalter%2B5v%2B5a%2Caps%2C67&sr=8-13&th=1 )      | 1      |   120€ |-|
 
 ## User-Deployment guide:
 ## Developer Documentation:
