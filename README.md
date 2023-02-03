@@ -1,12 +1,13 @@
 # Project-Ambilight
 ![title foto of the project, with project name and fictive company name](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Bildschirm%C2%ADfoto%202023-02-02%20um%2017.53.40.png)
 ## Short-Description:
-
 In this project students from the [University of Applied Sciences](https://ee.hm.edu) in Munich built a ambient light for a monitor.
+
 ## Detailed Description:
 In the 6th semester of electrical engineering and information technology students are supposed to envision and build their own product.
-It can be something that already exists. The purpose of the project is to simulate the whole project cycle of devleoping and testing the product. 
+It can be something that already exists. The purpose of the project is to simulate the whole project cycle of developing and testing the product. 
 We choose to build a [ambient light](https://en.wikipedia.org/wiki/Bias_lighting) with a [single board computer](https://en.wikipedia.org/wiki/Single-board_computer), that can be mounted on the back of a screen (tv or computer monitor).
+The project consisted of the development of the software (code and )
 
 ## Resource Overview:
 Here you can find all the relevant links (code, links to amazon to order the parts, and the documentation if you want to build your own ambient light)
