@@ -1,5 +1,5 @@
 # Project-Ambilight
-![title foto of the project, with project name and fictive company name](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Bildschirm%C2%ADfoto%202023-02-02%20um%2017.53.40.png)
+![title foto of the project, with project name and fictive company name](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Bildschirm%C2%ADfoto%202023-02-03%20um%2018.16.53.png)
 ## Short-Description:
 In this project students from the [University of Applied Sciences](https://ee.hm.edu) in Munich built a ambient light for a monitor.
 The ambient light enhances the viewing experience by illuminating the surrounding environment, creating a more immersive and enjoyable atmosphere. The code and PCB were both designed and built in-house, demonstrating the team's technical abilities and attention to detail.
