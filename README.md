@@ -1,4 +1,3 @@
-# Project-Ambilight
 ![title foto of the project, with project name and fictive company name](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Bildschirm%C2%ADfoto%202023-02-03%20um%2018.16.53.png)
 ## Short-Description:
 In this project students from the [University of Applied Sciences](https://ee.hm.edu) in Munich built a ambient light for a monitor.
