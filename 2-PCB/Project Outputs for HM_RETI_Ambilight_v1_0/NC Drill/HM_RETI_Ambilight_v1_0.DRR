@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HM_RETI_Ambilight_v1_0.PcbDoc   04.01.2023  10:19:19
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HM_RETI_Ambilight_v1_0-RoundHoles.TXT
+ASCII SlotHoles File : HM_RETI_Ambilight_v1_0-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          2                0.34 Inch (8.60 mm)
+T2        35.43mil (0.89992mm)     Round          4                0.28 Inch (7.00 mm)
+T3        39.37mil (1mm)           Round          10               2.26 Inch (57.32 mm)
+T4        39.37mil (1mm)           Slot           2                0.59 Inch (15.09 mm)
+T5        40mil (1.016mm)          Round          40               3.90 Inch (99.06 mm)
+T6        51.18mil (1.29997mm)     Round          2                0.28 Inch (7.00 mm)
+T7        86.61mil (2.19989mm)     Round          1                0.00 Inch (0.00 mm)
+T8        90.55mil (2.29997mm)     Round          2                0.39 Inch (10.00 mm)
+T9        108.27mil (2.75006mm)    Round          5                10.21 Inch (259.23 mm)
+T10       133.86mil (3.40004mm)    Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            69               18.24 Inch (463.31 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

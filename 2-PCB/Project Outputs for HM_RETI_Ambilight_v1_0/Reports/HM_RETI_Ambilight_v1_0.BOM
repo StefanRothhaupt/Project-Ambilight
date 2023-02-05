@@ -1,0 +1,18 @@
+Bill of Material for 
+On 05/02/2023 at 21:14:32
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1000uF              C_10mm_left      1    C1                           C, SMD, ELKO, 6,5V, ± 10% 
+ 100nF               C_0603           2    C2, C3                       C, SMD, MLCC, 25V, ± 10% 
+ 1k                  R_0603           1    R1                           R, SMD, Chip, 100mW, ± 1% 
+ DC 12V Power BUCHSE DC_BUCHSE_LUMBERG_2_35mm_STIFT    1    CON1                         DC_BUCHSE_LUMBERG_2_35mm_STIFT 
+ Fuse for RPI        FUSER_MF-MSMF250/16X-2    1    F1                           Polymeric PTC Resettable Fuse 16V 2.5 A Ih Surface Mount 1812 (4532 Metric), Concave 
+ Fuse for USB Power  FUSER_MF-MSMF250/16X-2    1    F2                           Polymeric PTC Resettable Fuse 16V 1.1 A Ih Surface Mount 1812 (4532 Metric), Concave 
+ Pin Header 2x1      Header 2x1       1    P1                           Board-to-Board-Steckverbinder, vertikal, 2.54 mm, 2 Kontakt(e), Stiftleiste, Baureihe WR-PHD 
+ Pin Header 3x1      Header 3x1       1    T1                           Board-to-Board-Steckverbinder, vertikal, 2.54 mm, 3 Kontakt(e), Stiftleiste, Baureihe WR-PHD 
+ Pin Header for LEDs Header 3x1       1    LED1                         Board-to-Board-Steckverbinder, vertikal, 2.54 mm, 3 Kontakt(e), Stiftleiste, Baureihe WR-PHD 
+ Raspbarry Pi4       MODULE_RASPBERRY_PI_3_MODEL_B+    1    U1                           BCM2835 Raspberry Pi Model B+ - ARM11, VideoCore MPU Embedded Evaluation Board 
+ Reset Taster RPI    431256058736     1    T2                           Taster, THT, 90°, 8,35mm, black 
+ TXS0102DCTT / Level Shifter SOP65P400X130-8N    1    U2                           2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application 
+ USB Power Output    CUI_UJ2-AH-4-TH    1    J1                           Type A, USB 2.0, 1 A, Right Angle, Through Hole, USB Receptacle 

@@ -1,0 +1,17 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+F2         FUSER_MF-MSMF250/16X-2    4689.37mil   1696.457mil    4689.37mil   1696.457mil   4772.047mil   1696.457mil  T        180.00 MF-MSMF110/16-2
+U2         SOP65P400X130-8N   4003.543mil   2051.969mil   4003.543mil   2051.969mil   4073.228mil   2013.583mil  T        180.00 TXS0102DCTT    
+T1         Header_3x1        4583.071mil    624.016mil   4583.071mil    624.016mil   4683.071mil    624.016mil  T        180.00 Pin Header 3x1 
+R1         R_0603            4044.882mil    2160.63mil   4044.882mil    2160.63mil   4078.287mil    2160.63mil  T        180.00 1k             
+LED1       HEADER_3X1         4007.48mil    1835.04mil    4007.48mil   1835.039mil    3907.48mil    1835.04mil  T        360.00 Pin Header 3x1 
+F1         FUSER_MF-MSMF250/16X-2   3641.339mil   2082.677mil   3641.339mil   2082.677mil   3641.339mil   2165.354mil  T        270.00 MF-MSMF250/16X-2
+CON1       DC_BUCHSE_LUMBERG_2_35MM_STIFT   4677.756mil    225.394mil   4581.102mil   -138.976mil   4581.496mil    432.284mil  T        270.00 DC-BUCHSE      
+C3         C_0603             3836.22mil   2052.756mil    3836.22mil   2052.756mil    3836.22mil   2019.351mil  T         90.00 100nF          
+C2         C_0603            4168.898mil   2052.756mil   4168.898mil   2052.756mil   4168.898mil   2086.162mil  T        270.00 100nF          
+C1         C_10mm_left       4005.118mil   1324.016mil   4005.118mil   1304.331mil   3906.693mil   1324.016mil  T        180.00 1000uF         
+U1         MODULE_RASPBERRY_PI_3_MODEL_B+   2205.315mil   1137.205mil   1745.669mil   1112.205mil   3155.315mil   2026.772mil  T        360.00 RASPBERRY_PI_3_MODEL_B+
+J1         CUI_UJ2-AH-4-TH   4633.071mil   1940.354mil   4770.866mil   1887.795mil   4770.866mil   1887.795mil  T        180.00 UJ2-AH-4-TH    
+P1         Header_2x1        4409.449mil   1385.827mil   4409.449mil   1383.071mil   4409.449mil   1435.827mil  T        270.00 Pin Header 2x1 
+T2         431256058736      4675.591mil    1389.37mil   4724.803mil    1389.37mil   4626.378mil   1251.575mil  T        270.00 TASTER_RESET   
+
