@@ -21,7 +21,8 @@ Here you can find all the relevant products we used (code, pcb-gerber-files, and
 ## User-Deployment guide:
 
 ## Developer Documentation:
-
+![Software manual](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/4-Documentation/Projekt_Ambilight_Software_Manual.pdf)
+![Hardware manual](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/4-Documentation/Projekt_Ambilight_Hardware_Manual.pdf)
 ## Demo-video:
 here you can see our elevator pitch video for the project
 
