@@ -25,6 +25,6 @@ Follow the steps in the [Software manual](https://github.com/StefanRothhaupt/Pro
 After the software setup, follow the [Hardware manual](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/4-Documentation/Projekt_Ambilight_Hardware_Manual.pdf) to make the system more compact and ready to ba packed into the housing.
 You can use [our design](https://github.com/StefanRothhaupt/Project-Ambilight/tree/main/3-Case) or you can create your own.
 ## Demo-video:
-here you can see our elevator pitch video for the project
+[![Pitch-video_of_the_project](https://img.youtube.com/)](https://www.youtube.com)
 
 ## Code
