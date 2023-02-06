@@ -21,10 +21,8 @@ Here you can find all the relevant products we used (code, pcb-gerber-files, and
 ## User-Deployment guide:
 
 ## Developer Documentation:
-Follow the steps in the [Software manual](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/4-Documentation/Projekt_Ambilight_Software_Manual.pdf) to setup your [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) for the ambient light. Keep in mind, that you need at least 4GB of RAM to drive the capture card. Otherwise the imageprocessing will be too slow and you will be notice a delay when the colors of the LEDs need to change quickly.
+Follow the steps in the [Software manual](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/4-Documentation/Projekt_Ambilight_Software_Manual.pdf) to setup your [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) for the ambient light. Download the [ambilight python code](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/1-Code/ambilight.py). Keep in mind, that you need at least 4GB of RAM to drive the capture card. Otherwise the imageprocessing will be too slow and you will be notice a delay when the colors of the LEDs need to change quickly.
 After the software setup, follow the [Hardware manual](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/4-Documentation/Projekt_Ambilight_Hardware_Manual.pdf) to make the system more compact and ready to ba packed into the housing.
 You can use [our design](https://github.com/StefanRothhaupt/Project-Ambilight/tree/main/3-Case) or you can create your own.
 ## Demo-video:
-[![Pitch-video_of_the_project](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Ambilight_cover_foto.heic)](https://www.youtube.com)
-
-## Code
+[![Pitch-video_of_the_project](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Ambilight_cover_foto.png)](https://www.youtube.com)
