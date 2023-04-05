@@ -27,6 +27,6 @@ Follow the steps in the [Software manual](https://github.com/StefanRothhaupt/Pro
 After the software setup, follow the [Hardware manual](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/4-Documentation/Projekt_Ambilight_Hardware_Manual.pdf) to make the system more compact and ready to ba packed into the housing.
 You can use [our design](https://github.com/StefanRothhaupt/Project-Ambilight/tree/main/3-Case) or you can create your own.
 
-## Demo-video:
+## Demo-video (COMING SOON):
 In this demo video we briefly go over the program and how it works and we give you a glimpse of what the ambilight is capable of.
 [![Pitch-video_of_the_project](https://github.com/StefanRothhaupt/Project-Ambilight/blob/main/Ambilight_cover_foto.png)](https://www.youtube.com)
